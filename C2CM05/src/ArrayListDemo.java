@@ -14,6 +14,7 @@ class Std
 		this.grade = grade;
 	}
 	public String toString()
+	
 	{
 		String str="Student is ["+id+","+name+","+grade+"]";
 		return str;
