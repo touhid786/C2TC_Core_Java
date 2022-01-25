@@ -37,15 +37,10 @@ public class HashTableDemo {
 	    ht.put(new Employee(56),"CA");
 	    
 	    System.out.println("Hashtable contains"+ht);
-	    
-		
-	
-		
+	   
 		
 
-	}
-	
-		
+	}	
 		
 		
 	}
